@@ -7,10 +7,8 @@ images:
 tags:
   - linux
   - writeup
-
-series:
-  - HackTheBox
+  - htb
 ---
 
-HELLO
+HELLO WORLD
 
