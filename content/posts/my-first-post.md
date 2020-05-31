@@ -177,7 +177,7 @@ Find all the users on the box
 
     cat pass | grep -vi 'false\|nologin\|sync'
     
-
+```bash
     root:x:0:0:root:/root:/bin/bash
     daemon:x:1:1:daemon:/usr/sbin:/bin/sh
     bin:x:2:2:bin:/bin:/bin/sh
@@ -199,6 +199,7 @@ Find all the users on the box
     postgres:x:108:117:PostgreSQL administrator,,,:/var/lib/postgresql:/bin/bash
     service:x:1002:1002:,,,:/home/service:/bin/bash
     makis:x:1003:1003::/home/makis:/bin/sh
+```
     
 
 `makis` as a user stuck out to me hence I tried making a `symlink` to the `/home/makis/user.txt` file and own user.
