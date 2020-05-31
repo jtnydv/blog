@@ -2,3 +2,5 @@
 label: Writeup
 hide_body: false
 fields: []
+pages:
+- content/posts/Bank.md
