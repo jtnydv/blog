@@ -6,12 +6,12 @@ tags = ["blog", "clean", "customizable", "dark", "highlighting", "light", "minim
 features = ["blog", "shortcode", "syntax highlighting"]
 min_version = 0.30
 
-[author]
-  name = "Djordje Atlialp"
-  homepage = "https://atlialp.com"
-  twitter = "https://twitter.com/rhazdon"
+# [author]
+#   name = "Djordje Atlialp"
+#   homepage = "https://atlialp.com"
+#   twitter = "https://twitter.com/rhazdon"
 
-[original]
-  name = "hello-friend"
-  homepage = "https://github.com/panr/hugo-theme-hello-friend"
-  repo = "https://github.com/panr/hugo-theme-hello-friend"
+# [original]
+#   name = "hello-friend"
+#   homepage = "https://github.com/panr/hugo-theme-hello-friend"
+#   repo = "https://github.com/panr/hugo-theme-hello-friend"

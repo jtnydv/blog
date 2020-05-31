@@ -5,7 +5,11 @@ draft: false
 toc: false
 images:
 tags:
-  - linux, htb, oscp
+  - linux
+  - writeup
+
+series:
+  - HackTheBox
 ---
 
 HELLO
