@@ -6,8 +6,6 @@ images:
 tags: []
 
 ---
-# Lame
-
 ### Initial Enumeration
 
 1000 Common TCP port scan
