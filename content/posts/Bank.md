@@ -1,5 +1,7 @@
 +++
-draft = true
+name = "Bank"
+published_date = 2020-05-30T18:30:00Z
+tags = []
 
 +++
 ### Initial enumeration
